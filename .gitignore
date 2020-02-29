@@ -1,6 +1,6 @@
 .DS_Store
-!runs/.gitkeep
-!data/.gitkeep
+runs/
+data/
 .ipynb_checkpoints/
 results.csv
 results.json
