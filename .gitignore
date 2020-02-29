@@ -1,0 +1,6 @@
+.DS_Store
+runs/
+data/
+.ipynb_checkpoints/
+results.csv
+results.json
