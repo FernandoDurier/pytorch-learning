@@ -105,7 +105,7 @@ pycld2==0.31
 pycparser==2.19
 pydot==1.2.3
 pydotplus==2.0.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyICU==2.3.1
 pynndescent==0.3.0
 pyparsing==2.4.0
