@@ -152,7 +152,7 @@ tabulate==0.8.3
 tb-nightly==1.14.0a20190614
 tensorboard==2.1.0
 tensorboardX==1.8
-tensorflow==2.1.0
+tensorflow==2.5.0
 tensorflow-estimator==2.1.0
 tensorflow-estimator-2.0-preview==1.14.0.dev2019062810
 tensorflow-tensorboard==1.5.1
